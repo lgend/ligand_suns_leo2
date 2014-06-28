@@ -1,0 +1,46 @@
+HETATM    1  CAM het A   1      15.543 -42.012  10.858  1.00 29.89           C  
+HETATM    2  CAN het A   1      16.772 -42.479  10.392  1.00 32.55           C  
+HETATM    3  CAS het A   1      15.405 -40.620  10.910  1.00 32.79           C  
+HETATM    4  CAT het A   1      16.475 -39.855  10.505  1.00 34.15           C  
+HETATM    5  SAO het A   1      17.632 -41.015  10.042  1.00 29.85           S  
+CONECT    1    2
+CONECT    1    2
+CONECT    1    2
+CONECT    1    2
+CONECT    1    3
+CONECT    1    3
+CONECT    1    3
+CONECT    1    3
+CONECT    2    1
+CONECT    2    1
+CONECT    2    1
+CONECT    2    1
+CONECT    2    5
+CONECT    2    5
+CONECT    2    5
+CONECT    2    5
+CONECT    3    1
+CONECT    3    1
+CONECT    3    1
+CONECT    3    1
+CONECT    3    4
+CONECT    3    4
+CONECT    3    4
+CONECT    3    4
+CONECT    4    3
+CONECT    4    3
+CONECT    4    3
+CONECT    4    3
+CONECT    4    5
+CONECT    4    5
+CONECT    4    5
+CONECT    4    5
+CONECT    5    2
+CONECT    5    2
+CONECT    5    2
+CONECT    5    2
+CONECT    5    4
+CONECT    5    4
+CONECT    5    4
+CONECT    5    4
+END
